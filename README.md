@@ -13,7 +13,10 @@ Stores results automatically
 
 How to Use
 
-Run the code in Google Colab or Python environment.
+open the code in Google Colab
+Run the first cell
+Enter the details of the students 
+And output will be shown
 
 Features
 
