@@ -1,13 +1,20 @@
-# Student Marks Analysis (Python Project)
+Student Marks Analysis (Python Project)
 
-This project allows users to enter marks for subjects and get:
-- Total Marks
-- Percentage
-- Grade
-- Auto save results into a file
+This project performs analysis on student marks such as:
 
-✅ Best for college Python project submission  
-✅ Phone & Colab supported
+Total Marks
 
-## How to Run
-Open in Google Colab and run:
+Percentage
+
+Grade
+
+Stores results automatically
+
+
+How to Use
+
+Run the code in Google Colab or Python environment.
+
+Features
+
+Simple and user-friendly program for students and beginners.
